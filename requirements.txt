@@ -1,0 +1,11 @@
+streamlit
+numpy
+pandas
+scikit-learn
+scipy
+matplotlib
+seaborn
+plotly
+category-encoders
+jinja2
+pdfkit
